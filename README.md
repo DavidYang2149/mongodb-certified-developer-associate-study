@@ -11,3 +11,6 @@ https://university.mongodb.com/certification/exam-prep
 https://university.mongodb.com/courses/catalog
 
 <img width="916" alt="developer-guide" src="https://user-images.githubusercontent.com/40143056/186561048-f344120b-5569-4676-a494-24ce04531b88.png">
+
+# MongoDB 시험 일정
+https://university.mongodb.com/certification/developer/about#policy
