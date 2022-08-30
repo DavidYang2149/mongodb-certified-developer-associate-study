@@ -2,7 +2,7 @@
 MongoDB Certified Developer Associate
 
 # MongoDB 시험 가이드
-https://view.highspot.com/viewer/615275dd15a0a018bac04a7a
+https://view.highspot.com/viewer/615275dd15a0a018bac04a7a  
 https://university.mongodb.com/exam/guide
 
 # MongoDB 모의고사
