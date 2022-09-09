@@ -18,3 +18,6 @@ https://university.mongodb.com/certification/developer/about#policy
 
 # MongoDB Korea 시험 정보
 https://mdbkruniversitycertification.splashthat.com/?utm_campaign=Int_WB_%08%08What%27s%20new%20in%20MongoDB%206.0%20%28Korea%29_08_22_APAC_Recording&utm_medium=email&utm_source=eloqua&utm_term=%5B%C3%AB%C2%8B%C2%A4%C3%AC%C2%8B%C2%9C%C3%AB%C2%B3%C2%B4%C3%AA%C2%B8%C2%B0%5D%20What%27s%20New%20in%20MongoDB%206.0%20%C3%AC%C2%9B%C2%A8%C3%AB%C2%B9%C2%84%C3%AB%C2%82%C2%98
+
+# MongoDB 추천 서적
+[몽고DB 완벽 가이드](http://www.yes24.com/Product/Goods/97980005)
